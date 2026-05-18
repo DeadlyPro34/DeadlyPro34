@@ -1,60 +1,100 @@
 <h1 align="center">🎌 Akhil | DeadlyPro34 ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=FF61F6&center=true&vCenter=true&width=600&lines=Code+like+a+Shinobi+⚔️;Building+My+Own+World+🌌;Anime+%2B+Tech+%3D+Me+🎌;Leveling+Up+Everyday+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=FF61F6&center=true&vCenter=true&width=600&lines=Code+like+a+Shinobi+%E2%9A%94%EF%B8%8F;Building+My+Own+World+%F0%9F%8C%8C;Anime+%2B+Tech+%3D+Me+%F0%9F%8E%8C;Leveling+Up+Everyday+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DeadlyPro34&label=👁️+Views&color=ff69b4&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=DeadlyPro34&label=%F0%9F%91%81%EF%B8%8F+Views&color=ff69b4&style=for-the-badge" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
 
 ## 🌸 About Me
 
-```yaml
-Name: Akhil
-Username: DeadlyPro34
-Role: Frontend Learner 💻
-Learning: HTML | CSS | jQuery
-Focus: Becoming Anime-Level Developer ⚡
-FunFact: First coder = Ada Lovelace 👩‍💻
-```
+<table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>⚡ The Shinobi Coder</h3>
+      <p>I am a passionate <b>Frontend Learner</b> on a mission to become an Anime-Level Developer! I love merging the striking aesthetics of anime with the elegance of modern web development to build visually stunning user interfaces.</p>
+      <ul>
+        <li><b>Learning:</b> <code>HTML</code> | <code>CSS</code> | <code>jQuery</code></li>
+        <li><b>Current Focus:</b> Mastering responsive CSS layouts and interactive micro-animations!</li>
+        <li><b>Fun Fact:</b> The first computer programmer in history was Ada Lovelace 👩‍💻</li>
+      </ul>
+    </td>
+    <td width="45%" valign="top" align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=DeadlyPro34&theme=algolia&no-frame=true&row=2&column=3" width="100%" />
+    </td>
+  </tr>
+</table>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
 
 ## ⚔️ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,git,github,vscode" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,git,github,vscode&theme=dark" />
+  </a>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
 
 ## 📊 Power Stats (My Chakra 💫)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeadlyPro34&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeadlyPro34&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/DeadlyPro34">
+    <img src="https://github-readme-stats.vercel.app/api?username=DeadlyPro34&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180em" />
+  </a>
+  <a href="https://github.com/DeadlyPro34">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeadlyPro34&theme=tokyonight&hide_border=true" height="180em" />
+  </a>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
 
 ## 🐍 Contribution Snake (My Shadow 🐉)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DeadlyPro34/DeadlyPro34/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DeadlyPro34/DeadlyPro34/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DeadlyPro34/DeadlyPro34/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/DeadlyPro34/DeadlyPro34/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
 
 ## 🎧 Anime Vibes (Now Playing)
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem" />
+  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem" width="450" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
+
+## 💬 Quote
+
+<p align="center">
+  <b>“A developer who never stops learning… becomes unstoppable.”</b> ⚡
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
 
 ## 🌌 Connect With Me
 
@@ -64,26 +104,10 @@ FunFact: First coder = Ada Lovelace 👩‍💻
   </a>
 </p>
 
----
-
-## 💬 Quote
-
-> "A developer who never stops learning… becomes unstoppable." ⚡
-
----
-
-## 🏆 Achievements
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DeadlyPro34&theme=algolia&no-frame=true&row=1&column=6" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
 
----
-
-⭐ *“Write code like it’s your final anime battle.”* ⚔️
-
-
-<!---
-DeadlyPro34/DeadlyPro34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  ⭐ <i>“Write code like it’s your final anime battle.”</i> ⚔️
+</p>
