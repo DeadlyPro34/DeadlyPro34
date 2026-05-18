@@ -79,7 +79,7 @@
 ## 🎧 Anime Vibes (Now Playing)
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem" width="450" />
+  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=317vplceom7dxfuki4vvup5rk2d4&cover_image=true&theme=novatorem" width="450" />
 </p>
 
 <p align="center">
