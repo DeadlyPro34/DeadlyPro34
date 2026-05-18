@@ -43,7 +43,7 @@ FunFact: First coder = Ada Lovelace 👩‍💻
 ## 🐍 Contribution Snake (My Shadow 🐉)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DeadlyPro34/DeadlyPro34/output/github-contribution-grid-snake.svg" />
+  <img src="[https://raw.githubusercontent.com/DeadlyPro34/DeadlyPro34/output/github-contribution-grid-snake.svg](https://github.com/DeadlyPro34/DeadlyPro34/blob/main/snake.yml)" />
 </p>
 
 ---
