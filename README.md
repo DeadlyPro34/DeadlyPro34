@@ -99,11 +99,11 @@
 ## 🌌 Shinobi Path (My Walkway ⚡)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/cObgA4lF3T32g/giphy.gif" height="70" />
+  <img src="https://i.giphy.com/media/cObgA4lF3T32g/giphy.gif" height="70" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/i78e6beuP59d18AN97/giphy.gif" height="70" />
+  <img src="https://i.giphy.com/media/i78e6beuP59d18AN97/giphy.gif" height="70" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/t6s3lhK6pYZBC/giphy.gif" height="70" />
+  <img src="https://i.giphy.com/media/t6s3lhK6pYZBC/giphy.gif" height="70" />
 </p>
 
 <p align="center">
