@@ -79,7 +79,7 @@
 ## 🎧 Anime Vibes (Now Playing)
 
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTBqc3Jzbm81ejV5eTV5ZXNnaDFxNXk1NXk1NXk1NXk1NXk1NXk1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vXG54pT4fEgn6/giphy.gif" width="450" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTBqc3Jzbm81ejV5eTV5ZXNnaDFxNXk1NXk1NXk1NXk1NXk1NXk1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vXG54pT4fEgn6/giphy.gif?v=2" width="450" />
 </p>
 
 <p align="center">
@@ -99,11 +99,11 @@
 ## 🌌 Shinobi Path (My Walkway ⚡)
 
 <p align="center">
-  <img src="https://i.giphy.com/media/cObgA4lF3T32g/giphy.gif" height="70" />
+  <img src="https://i.giphy.com/media/cObgA4lF3T32g/giphy.gif?v=2" height="70" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://i.giphy.com/media/i78e6beuP59d18AN97/giphy.gif" height="70" />
+  <img src="https://i.giphy.com/media/i78e6beuP59d18AN97/giphy.gif?v=2" height="70" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://i.giphy.com/media/t6s3lhK6pYZBC/giphy.gif" height="70" />
+  <img src="https://i.giphy.com/media/t6s3lhK6pYZBC/giphy.gif?v=2" height="70" />
 </p>
 
 <p align="center">
