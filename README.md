@@ -1,26 +1,29 @@
-<h1 align="center">⚡ Hi, I'm Akhil ⚡</h1>
+<h1 align="center">🎌 Akhil | DeadlyPro34 ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Frontend+Developer+💻;Always+Learning+New+Things+🌱;Let's+Build+Something+Cool+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=FF61F6&center=true&vCenter=true&width=600&lines=Code+like+a+Shinobi+⚔️;Building+My+Own+World+🌌;Anime+%2B+Tech+%3D+Me+🎌;Leveling+Up+Everyday+🚀" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DeadlyPro34&label=Profile+Views&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=DeadlyPro34&label=👁️+Views&color=ff69b4&style=flat" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🌸 About Me
 
-* 👀 Into **Coding & Creative Web Design**
-* 🌱 Learning **HTML, CSS, jQuery**
-* 💞️ Open for **Collabs & Cool Projects**
-* 📫 **[akhil.sbj@gmail.com](mailto:akhil.sbj@gmail.com)**
-* ⚡ Fun Fact: First coder = **Ada Lovelace 👩‍💻**
+```yaml
+Name: Akhil
+Username: DeadlyPro34
+Role: Frontend Learner 💻
+Learning: HTML | CSS | jQuery
+Focus: Becoming Anime-Level Developer ⚡
+FunFact: First coder = Ada Lovelace 👩‍💻
+```
 
 ---
 
-## 🧠 Tech Stack
+## ⚔️ Tech Arsenal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,jquery,git,github,vscode" />
@@ -28,20 +31,16 @@
 
 ---
 
-## 📊 GitHub Universe
+## 📊 Power Stats (My Chakra 💫)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeadlyPro34&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeadlyPro34&theme=radical&hide_border=true&background=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeadlyPro34&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DeadlyPro34&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeadlyPro34&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 Contribution Snake
+## 🐍 Contribution Snake (My Shadow 🐉)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DeadlyPro34/DeadlyPro34/output/github-contribution-grid-snake.svg" />
@@ -49,7 +48,7 @@
 
 ---
 
-## 🎧 Now Playing (Spotify)
+## 🎧 Anime Vibes (Now Playing)
 
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem" />
@@ -57,33 +56,31 @@
 
 ---
 
-## 🌐 Connect
+## 🌌 Connect With Me
 
 <p align="center">
   <a href="mailto:akhil.sbj@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Me-ff69b4?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 💬 Dev Quote
+## 💬 Quote
+
+> "A developer who never stops learning… becomes unstoppable." ⚡
+
+---
+
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DeadlyPro34&theme=algolia&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-## 🧩 Fun Extras
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DeadlyPro34&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-⭐ From [DeadlyPro34](https://github.com/DeadlyPro34)
+⭐ *“Write code like it’s your final anime battle.”* ⚔️
 
 
 <!---
