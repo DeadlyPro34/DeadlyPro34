@@ -79,7 +79,7 @@
 ## 🏙️ Voxel City (My 3D Realm ⚡)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DeadlyPro34/DeadlyPro34/main/profile-3d-contrib/profile-night-rainbow-animate.svg" width="60%" />
+  <img src="https://raw.githubusercontent.com/DeadlyPro34/DeadlyPro34/main/profile-3d-contrib/profile-night-rainbow.svg" width="60%" />
 </p>
 
 <p align="center">
