@@ -16,7 +16,7 @@
 
 <table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
-    <td width="55%" valign="top">
+    <td width="100%" valign="top">
       <h3>⚡ The Shinobi Coder</h3>
       <p>I am a passionate <b>Frontend Learner</b> on a mission to become an Anime-Level Developer! I love merging the striking aesthetics of anime with the elegance of modern web development to build visually stunning user interfaces.</p>
       <ul>
@@ -24,9 +24,6 @@
         <li><b>Current Focus:</b> Mastering responsive CSS layouts and interactive micro-animations!</li>
         <li><b>Fun Fact:</b> The first computer programmer in history was Ada Lovelace 👩‍💻</li>
       </ul>
-    </td>
-    <td width="45%" valign="top" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=DeadlyPro34&theme=algolia&no-frame=true&row=2&column=3" width="100%" />
     </td>
   </tr>
 </table>
