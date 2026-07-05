@@ -1,29 +1,25 @@
-<h1 align="center">🎌 Akhil | DeadlyPro34 ⚡</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=FF61F6&center=true&vCenter=true&width=600&lines=Code+like+a+Shinobi+%E2%9A%94%EF%B8%8F;Building+My+Own+World+%F0%9F%8C%8C;Anime+%2B+Tech+%3D+Me+%F0%9F%8E%8C;Leveling+Up+Everyday+%F0%9F%9A%80" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DeadlyPro34&label=%F0%9F%91%81%EF%B8%8F+Views&color=ff69b4&style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</p>
-
-## 🌸 About Me
-
 <table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
-    <td width="100%" valign="top">
-      <h3>⚡ The Shinobi Coder</h3>
-      <p>I am a passionate <b>Frontend Learner</b> on a mission to become an Anime-Level Developer! I love merging the striking aesthetics of anime with the elegance of modern web development to build visually stunning user interfaces.</p>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/DeadlyPro34/DeadlyPro34/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
+    </td>
+    <td width="50%" valign="top">
+      <h1 align="center">Hi, I'm Akhil!</h1>
+      <p align="center">
+        <i>Frontend Learner & Developer ⚡</i><br/>
+        <b>Building My Own World 🌌</b>
+      </p>
+      <hr/>
       <ul>
-        <li><b>Learning:</b> <code>HTML</code> | <code>CSS</code> | <code>jQuery</code></li>
-        <li><b>Current Focus:</b> Mastering responsive CSS layouts and interactive micro-animations!</li>
-        <li><b>Fun Fact:</b> The first computer programmer in history was Ada Lovelace 👩‍💻</li>
+        <li>🎌 <b>The Shinobi Coder</b> on a mission to become an Anime-Level Developer!</li>
+        <li>💻 <b>Current Focus:</b> Mastering responsive CSS layouts and interactive micro-animations.</li>
+        <li>💡 <b>Learning:</b> <code>HTML</code> | <code>CSS</code> | <code>JavaScript</code></li>
+        <li>👩‍💻 <b>Fun Fact:</b> The first computer programmer in history was Ada Lovelace!</li>
       </ul>
+      <br/><br/><br/>
+      <p align="center">
+        <img src="https://komarev.com/ghpvc/?username=DeadlyPro34&label=Profile+views&color=4b91f1&style=flat" alt="Profile Views" />
+      </p>
     </td>
   </tr>
 </table>
