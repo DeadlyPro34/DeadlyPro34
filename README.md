@@ -19,13 +19,12 @@
 
 <hr/>
 
-<h3 align="center">🤝 Connect With Me</h3>
 <p align="center">
   <a href="mailto:akhil.sbj@gmail.com">
-    <img src="https://img.shields.io/badge/Email-akhil.sbj%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/akhil-biju-varghese-80659233a">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
