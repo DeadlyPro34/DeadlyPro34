@@ -11,9 +11,9 @@
       </p>
       <hr/>
       <ul>
-        <li>🎌 <b>The Shinobi Coder</b> leveling up in Full-Stack and AI/ML!</li>
-        <li>💻 <b>Current Focus:</b> Python, Machine Learning, & Real-World Projects.</li>
-        <li>💡 <b>Tech Stack:</b> <code>Python</code> | <code>ML</code> | <code>HTML/CSS/JS</code></li>
+        <li>🚀 <b>Passionate Developer</b> dedicated to building robust and scalable software solutions.</li>
+        <li>💻 <b>Current Focus:</b> Python, Machine Learning, & Real-World Full-Stack Projects.</li>
+        <li>💡 <b>Tech Stack:</b> <code>Python</code> | <code>Machine Learning</code> | <code>HTML/CSS/JS</code></li>
         <li>👩‍💻 <b>Fun Fact:</b> The first computer programmer in history was Ada Lovelace!</li>
       </ul>
       <br/><br/><br/>
