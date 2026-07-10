@@ -6,14 +6,14 @@
     <td width="50%" valign="top">
       <h1 align="center">Hi, I'm Akhil!</h1>
       <p align="center">
-        <i>Frontend Learner & Developer ⚡</i><br/>
-        <b>Building My Own World 🌌</b>
+        <i>CSE Student | Full-Stack Developer | AI/ML Developer ⚡</i><br/>
+        <b>Building Real-World Projects with Python & Machine Learning 🌌</b>
       </p>
       <hr/>
       <ul>
-        <li>🎌 <b>The Shinobi Coder</b> on a mission to become an Anime-Level Developer!</li>
-        <li>💻 <b>Current Focus:</b> Mastering responsive CSS layouts and interactive micro-animations.</li>
-        <li>💡 <b>Learning:</b> <code>HTML</code> | <code>CSS</code> | <code>JavaScript</code></li>
+        <li>🎌 <b>The Shinobi Coder</b> leveling up in Full-Stack and AI/ML!</li>
+        <li>💻 <b>Current Focus:</b> Python, Machine Learning, & Real-World Projects.</li>
+        <li>💡 <b>Tech Stack:</b> <code>Python</code> | <code>ML</code> | <code>HTML/CSS/JS</code></li>
         <li>👩‍💻 <b>Fun Fact:</b> The first computer programmer in history was Ada Lovelace!</li>
       </ul>
       <br/><br/><br/>
