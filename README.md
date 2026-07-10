@@ -17,8 +17,19 @@
   <li>👩‍💻 <b>Fun Fact:</b> The first computer programmer in history was Ada Lovelace!</li>
 </ul>
 
+<hr/>
+
+<h3 align="center">🤝 Connect With Me</h3>
+<p align="center">
+  <a href="mailto:akhil.sbj@gmail.com">
+    <img src="https://img.shields.io/badge/Email-akhil.sbj%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/akhil-biju-varghese-80659233a">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
 <br/>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DeadlyPro34&label=Profile+views&color=4b91f1&style=flat" alt="Profile Views" />
 </p>
-
